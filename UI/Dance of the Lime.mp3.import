@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Dance of the Lime.mp3-2b28dfc0b147ebc4842b5b8ae3a3d5c0.mp3str"
+
+[deps]
+
+source_file="res://UI/Dance of the Lime.mp3"
+dest_files=[ "res://.import/Dance of the Lime.mp3-2b28dfc0b147ebc4842b5b8ae3a3d5c0.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
